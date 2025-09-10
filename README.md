@@ -1,6 +1,6 @@
 # Hey folks, I'm Ahtram A. 👋
 
-🌱 Lifelong learner and BCA 2025 student passionate about DSA, development, and technology.
+🌱 Just recent graduate in Rtificial Intelligence with hands on experience of 6 months in Data Analysis.
 
 🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
 
@@ -27,11 +27,11 @@ I'm passionate about:
 🔧 **Technologies and Tools** I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,html,css,vscode,apache" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,vscode,apache" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=linux,vim,bash,nginx,cmake,md,apache" />
+    <img src="https://skillicons.dev/icons?i=linux,vim,bash,cmake" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,ansible" />
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs" />
   </a>
 </p>
 
