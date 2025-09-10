@@ -1,6 +1,6 @@
 # Hey folks, I'm Ahtram A. 👋
 
-🌱 Just recent graduate in Rtificial Intelligence with hands on experience of 6 months in Data Analysis.
+🎓 Just recent graduate in atificial Intelligence with hands on experience of 6 months in Data Analysis.
 
 🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
 
@@ -21,17 +21,17 @@ Check out my profiles on:
 I'm passionate about:
 - 🦾 Complex problem solving using DSA (competitive programming)
 - 🦈 Data Analyst
-- 🗿 Backend technologies
+- 🗿 Machine Learning
 - 🤖 Integration of modern AI
 
 🔧 **Technologies and Tools** I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,html,css,vscode,apache" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,vscode" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=linux,vim,bash,cmake" />
+    <img src="https://skillicons.dev/icons?i=linux" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git,docker,nodejs" />
+    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
 
