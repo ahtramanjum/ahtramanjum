@@ -1,4 +1,4 @@
-# Hey folks, I'm Ahtram A. <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+# Hey folks, I'm Ahtram A. <img src="wave.gif" width=33>
 🎓 Just recent graduate in atificial Intelligence with hands on experience of 6 months in Data Analysis.
 
 🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
