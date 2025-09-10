@@ -1,4 +1,4 @@
-# Hello, I'm Mohammad Jarju! 👋
+# Hey folks, I'm Ahtram A. 👋
 
 🌱 Lifelong learner and BCA 2025 student passionate about DSA, development, and technology.
 
@@ -7,21 +7,20 @@
 🚀 Always eager to sharpen my problem-solving skills and tackle interesting coding challenges
 
 🌐 **Connect with me:**
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammad-jarju-10x)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:jarjudrag@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahtramanjum)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:ahtramanjum@gmail.com)
 
 ## 👩‍💻 Profiles
 
 Check out my profiles on:
-- [LeetCode](https://leetcode.com/jarjudrag/)
+- [LeetCode](https://leetcode.com/ahtramanjum/)
 - [HackerRank](https://www.hackerrank.com/profile/jarjudrag)
-- [CodeForces](https://codeforces.com/profile/Jarju-10x)
 
 ## 💡 Interests and Skills
 
 I'm passionate about:
 - 🦾 Complex problem solving using DSA (competitive programming)
-- 🦈 DevOps
+- 🦈 Data Analyst
 - 🗿 Backend technologies
 - 🤖 Integration of modern AI
 
