@@ -3,7 +3,7 @@
 
 🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
 
-🚀 Always eager to sharpen my problem-solving skills and tackle interesting coding challenges
+🚀 Always eager to sharpen my problem-solving skills and tackle interesting coding challenges.
 
 🌐 **Connect with me:**
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahtramanjum)
@@ -13,7 +13,7 @@
 
 Check out my profiles on:
 - [LeetCode](https://leetcode.com/ahtramanjum/)
-- [HackerRank](https://www.hackerrank.com/profile/jarjudrag)
+- [HackerRank](https://www.hackerrank.com/profile/ahtramanjum)
 
 ## 💡 Interests and Skills
 
