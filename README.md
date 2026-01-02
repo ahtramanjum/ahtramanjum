@@ -18,7 +18,7 @@ Check out my profiles on:
 ## 💡 Interests and Skills
 
 I'm passionate about:
-- 🦈 Data Analyst
+- 🦈 Data Analysis & Science
 - 🗿 Machine Learning
 - 🤖 Integration of modern AI
 
