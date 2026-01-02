@@ -29,7 +29,6 @@ I'm passionate about:
     <br/>
     <img src="https://skillicons.dev/icons?i=Power bi, Excel" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=git" />
   </a>
 </p>
 
