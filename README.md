@@ -18,7 +18,6 @@ Check out my profiles on:
 ## 💡 Interests and Skills
 
 I'm passionate about:
-- 🦾 Complex problem solving using DSA (competitive programming)
 - 🦈 Data Analyst
 - 🗿 Machine Learning
 - 🤖 Integration of modern AI
